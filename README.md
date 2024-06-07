@@ -12,4 +12,5 @@ curl -sSL https://pingbaz.ir/scripts/MikrotikUbuntu.sh -o MikrotikUbuntu.sh && c
 
 ### Login Information:
 Username: `admin`
+
 Password: `` (does not have)
